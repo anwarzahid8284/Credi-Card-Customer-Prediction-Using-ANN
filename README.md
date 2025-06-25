@@ -14,6 +14,8 @@ This project demonstrates how to build and train an **Artificial Neural Network 
 > - **Weight updates via backpropagation**
 > - And how to improve or ruin model performance with architecture and training tweaks
 
+This is a **learning project**, not intended for production deployment or maximum accuracy.
+
 ---
 
 ## 💡 What This Project Does
@@ -93,26 +95,16 @@ Visual representation of **training vs validation accuracy**:
 
 ---
 
-## 📬 Summary
+## 📬 Connect with Me
 
-By the end of this project, you’ll understand:
-
-- 🔍 How forward and backward propagation work in ANN
-- ⚙️ How tuning neurons, layers, and epochs affects learning
-- 📈 How to monitor performance using loss/accuracy graphs
-- ⚠️ How overfitting happens and how to detect it
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://pk.linkedin.com/in/anwarzahid8284)
 
 ---
 
-> 💬 **Learning is my hobby**  
-> 😄 “Others play games to unwind — I play with neural networks. Watching loss go down is my version of Netflix!”
+## 🎉 Bonus: Coding Humor
+
+> 💻 **Why do programmers hate nature?**  
+> 🌲 Because it has too many bugs! 🐞
 
 ---
 
-## 👨‍💻 Author
-
-**Anwar Zahid**  
-📧 your.email@example.com  
-🌐 GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
-
----

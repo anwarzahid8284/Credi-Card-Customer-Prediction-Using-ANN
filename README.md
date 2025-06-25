@@ -104,7 +104,7 @@ Visual representation of **training vs validation accuracy**:
 ## 🎉 Bonus: Coding Humor
 
 > 💻 **Why do programmers hate nature?**  
-> 🌲 Because it has too many bugs! 🐞
+> 🌲 Because it has too many bugs!
 
 ---
 
